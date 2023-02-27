@@ -112,7 +112,7 @@ const Home = () => {
               where pixels and personality come to play!</h2>
               <h2> 
               try using "saumitra kapoor" in your
-              prompt to use my face :P.
+              prompt to use my face :P
             </h2>
           </div>
           <div className="prompt-container">
